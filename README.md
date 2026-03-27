@@ -1,4 +1,4 @@
-👋 Hi, I'm a Web Developer
+👋 Hi, I'm Aneel Kumar
 
 💻 Senior Systems Analyst at DAZN (dä-zōn) with over 7+ years of experience crafting exceptional web experiences.
 
