@@ -1,8 +1,8 @@
 👋 Hi, I'm a Web Developer
 
-💻 Professional in developing web applications with react
+💻 Senior Systems Analyst at DAZN (dä-zōn) with over 7+ years of experience crafting exceptional web experiences.
 
-👀 Always open to learn new technologies
+👀 Building scalable, performant React applications that delight users and drive business value. Currently, I'm delivering high-impact multi-market sign-up and sign-in journeys, ensuring a seamless experience across web platforms at DAZN.
 
 💞️ Open to contribute
 
